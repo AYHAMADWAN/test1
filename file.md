@@ -1,5 +1,5 @@
 ***one***
-| table | header |
+| table | header | header2|
 |-------|--------|
 |cell1|cell2|
 |cell2|ceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeel3|
